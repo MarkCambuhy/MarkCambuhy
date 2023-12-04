@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+![MarkCambuhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkCambuhy&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkCambuhy&theme=transparent&layout=donut-vertical)
+
 <!--
 **MarkCambuhy/MarkCambuhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
